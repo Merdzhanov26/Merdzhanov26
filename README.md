@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Merdzhanov26
 - 👀 I’m interested in coding and DJing
 - 🌱 I’m currently learning Js and C#
-- 💞️ I’m looking to collaborate on 
 - 📫 email: simeonmerdzhanov26@gmail.com 
 
 <!---
